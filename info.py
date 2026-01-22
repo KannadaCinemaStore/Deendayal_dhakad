@@ -85,8 +85,8 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/How_To_Open_Links_byp
 # Link Shortener Configuration
 # ============================
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'linkshortify.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'aa8dbc80e430e45af7c149f7b95108f1a0e729b9')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'papajiurl.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'a0ee032d61824767b027fe5ae77cf1fb11a8d40b')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_Links_bypass')  # Tutorial video link for opening shortlink website
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 
