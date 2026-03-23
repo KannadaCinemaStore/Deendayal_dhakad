@@ -176,9 +176,9 @@ else:
     ON_HEROKU = False
 HAS_SSL = bool(getenv('HAS_SSL', True))
 if HAS_SSL:
-    URL = "https://evident-jillana-kannadaflixmoviez-bb952645.koyeb.app/".format(FQDN)
+    URL = "https://relevant-vinita-kannadaflixmoviez-449f2c49.koyeb.app/".format(FQDN)
 else:
-    URL = "http://evident-jillana-kannadaflixmoviez-bb952645.koyeb.app/".format(FQDN)
+    URL = "https://relevant-vinita-kannadaflixmoviez-449f2c49.koyeb.app/".format(FQDN)
 
 # ============================
 # Reactions Configuration
